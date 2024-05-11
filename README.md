@@ -8,9 +8,20 @@ A brain-computer interface (BCI) is an advanced technology that facilitates dire
 
 
 **Figures**:  
+
 Fixed-confidence setting (Section 5.2)
+
  <img align="center" src="Figure/FC.png" alt="drawing" width="600">
+ 
 Fixed-budget setting (Section 5.3)
+
  <img align="center" src="Figure/FB.png" alt="drawing" width="400">
+ 
 Alternative prior specification (Section B in the appendix)
+
  <img align="center" src="Figure/Alternative_prior.png" alt="drawing" width="600">
+
+
+
+
+ 
